@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Ground
   - Chori
+  - Seg1
+  - Seg2
+  - PJ
+  - Pelota
+  - Referi
   layers:
   - Default
   - TransparentFX
